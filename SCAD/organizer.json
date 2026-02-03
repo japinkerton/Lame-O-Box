@@ -1,0 +1,41 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "Nail Polish Holder": {
+            "ADD_LID": "false",
+            "BOTTOM_HOLE_DIA": "12",
+            "HEIGHT": "30",
+            "INNER_WALL_THICK": "1.5",
+            "LARGE_SLOTS": "1",
+            "LID_HEIGHT": "10",
+            "LID_OFFSET": "10",
+            "LID_TOLERANCE": "0.5",
+            "LS_DIM_X": "2",
+            "LS_DIM_Y": "2",
+            "OUTER_WALL_THICK": "2.0",
+            "ROUNDED": "true",
+            "SIDE_HOLE_DIA": "10",
+            "SLOTS_X": "5",
+            "SLOTS_Y": "5",
+            "SLOT_WIDTH": "36"
+        },
+        "Small Parts Holder": {
+            "ADD_LID": "true",
+            "BOTTOM_HOLE_DIA": "0",
+            "HEIGHT": "15",
+            "INNER_WALL_THICK": "1",
+            "LARGE_SLOTS": "2",
+            "LID_HEIGHT": "8",
+            "LID_OFFSET": "10",
+            "LID_TOLERANCE": "0.30000000000000004",
+            "LS_DIM_X": "2",
+            "LS_DIM_Y": "1",
+            "OUTER_WALL_THICK": "1.5000000000000004",
+            "ROUNDED": "true",
+            "SIDE_HOLE_DIA": "0",
+            "SLOTS_X": "3",
+            "SLOTS_Y": "5",
+            "SLOT_WIDTH": "25"
+        }
+    }
+}
